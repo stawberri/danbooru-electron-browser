@@ -1,0 +1,14 @@
+{
+  "name": "danbooru-explorer",
+  "version": "1.0.0",
+  "description": "danbooru gallery browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Key",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.2"
+  }
+}
